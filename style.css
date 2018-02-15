@@ -1,0 +1,32 @@
+body {
+  font-family: 'Comfortaa', cursive;
+  color: black;
+}
+
+#tweetButton {
+  font-family: 'Comfortaa', cursive;
+  color: white;
+}
+
+
+body {
+    background-color: #7887AB;
+}
+
+
+
+#content {
+  height: 100%;
+}
+
+#logo {
+  height: 50%;
+}
+
+#quoteBox {
+  height: 50%;
+  background-color: rgb(92, 117, 156);
+  fill-opacity: 50%;
+  border-radius: 5px 5px 5px 5px;
+  padding: 1%;
+}
